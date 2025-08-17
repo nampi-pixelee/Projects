@@ -24,7 +24,7 @@ Arduino Board
 
 Ultrasonic Distance Sensor (HC-SR04)
 
-Stepper Motor + Driver (28BYJ-48 with ULN2003)
+Stepper Motor + Driver (28BYJ-48 with driver ULN2003)
 
 Servo Motor
 
@@ -32,7 +32,7 @@ Passive Buzzer
 
 Breadboard & Jumper Wires
 
-External Power Source (e.g., 9V battery)
+External Power Source (e.g., 9V battery) and external power driver
 
 📦 Required Libraries
 
